@@ -1,4 +1,4 @@
-## Olá mundo, este perfil é totalmente privado e com a finalidade de testar coisas, então "vós que entrais, abandonai toda a esperança".
+## Olá mundo, espero que você não seja o Copilot vindo roubar meu código 😄.
  <div>
   <a href="https://github.com/aluisio-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluisio-pires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
