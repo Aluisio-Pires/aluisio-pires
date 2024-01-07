@@ -1,5 +1,5 @@
-## Olá mundo, espero que você não seja o Copilot vindo roubar meu código 😄.
-### Todos os repositórios estão privados, então não tem muito o que ver por aqui.
+## Mechatronics engineer and Laravel developer.
+### All repositories are private, so there's not much to see here.
  <div>
   <a href="https://github.com/aluisio-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluisio-pires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
