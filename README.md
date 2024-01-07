@@ -17,6 +17,6 @@
   ##
  
 <div>
-  <a href="https://instagram.com/aluisiopires_" target="_blank"><img src="https:////img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <a href="https://twitter.com/intent/follow?screen_name=aluisiopires_" target="_blank"><img src="https://img.shields.io/twitter/follow/aluisiopires_?style=social"/>
+  <a href="https://instagram.com/aluisiopires_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/intent/follow?screen_name=aluisiopires_" target="_blank"><img src="https://img.shields.io/twitter/follow/aluisiopires_?style=social"/></a>
 </div>
