@@ -1,15 +1,4 @@
 ## Laravel Architect
-
-<div>
-  <a href="https://github.com/aluisio-pires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluisio-pires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-<div>
-  <a href="https://github.com/aluisio-pires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluisio-pires&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>
-
 <div>
   <a href="https://github.com/aluisio-pires">
   <img src="https://metrics.lecoq.io/aluisio-pires?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=America%2FSao_Paulo"/>
