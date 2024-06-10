@@ -7,14 +7,14 @@
     
 <div>
   <a href="https://github.com/aluisio-pires">
-  <img src="https://metrics.lecoq.io/aluisio-pires?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=America%2FSao_Paulo"/>
-</div>
-
-<div>
-  <a href="https://github.com/aluisio-pires">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aluisio-pires&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aluisio-pires&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aluisio-pires&theme=github_dark"/>
+</div>
+    
+<div>
+  <a href="https://github.com/aluisio-pires">
+  <img src="https://metrics.lecoq.io/aluisio-pires?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&config.timezone=America%2FSao_Paulo"/>
 </div>
 
 <div style="display: inline_block"><br>
