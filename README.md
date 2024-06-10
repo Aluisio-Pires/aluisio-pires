@@ -7,11 +7,6 @@
 
 <div>
   <a href="https://github.com/aluisio-pires">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aluisio-pires&theme=react-dark&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
-</div>
-
-<div>
-  <a href="https://github.com/aluisio-pires">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aluisio-pires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </div>
 
