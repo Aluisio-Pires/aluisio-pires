@@ -7,19 +7,13 @@
 
 <div>
   <a href="https://github.com/aluisio-pires">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aluisio-pires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</div>
-
-<div>
-  <a href="https://github.com/aluisio-pires">
-  <img src="https://github-profile-trophy.vercel.app/?username=aluisio-pires&theme=darkhub&column=7&margin-w=15&margin-h=15"/>
-</div>
-
-<div>
-  <a href="https://github.com/aluisio-pires">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aluisio-pires&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
+<div>
+  <a href="https://github.com/aluisio-pires">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aluisio-pires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Aluisio-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
