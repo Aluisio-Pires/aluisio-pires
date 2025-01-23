@@ -7,14 +7,15 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aluisio-pires&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </div>
-    
+
+<!--
 <div align="center">
   <a href="https://github.com/aluisio-pires">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aluisio-pires&theme=github_dark"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aluisio-pires&theme=github_dark"/>
   </a>
 </div>
-
+-->
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Aluisio-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Aluisio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
