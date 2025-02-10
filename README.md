@@ -9,7 +9,11 @@
   </a>
 </div>
 -->
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Aluisio-Pires&theme=tokyonight&hide_border=true&border_radius=10&background=45%2C474A8A%2C787CB5&stroke=4B8BBE&fire=4B8BBE&ring=4B8BBE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=41B883&dates=41B883&excludeDaysLabel=41B883)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/aluisio-pires">
+    [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Aluisio-Pires&theme=tokyonight&hide_border=true&border_radius=10&background=45%2C474A8A%2C787CB5&stroke=4B8BBE&fire=4B8BBE&ring=4B8BBE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=41B883&sideLabels=41B883&dates=41B883&excludeDaysLabel=41B883)](https://git.io/streak-stats)
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/aluisio-pires">
