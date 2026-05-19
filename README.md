@@ -10,8 +10,11 @@
 </div>
 -->
 <div align="center">
-  <a href="https://github.com/aluisio-pires">
-    <img height="180em" src="https://nirzak-streak-stats.vercel.app?user=Aluisio-Pires&theme=transparent&currStreakNum=41B883&sideNums=41B883&dates=474A8A&border=444444"/>
+  <a href="https://github.com/Aluisio-Pires">
+    <img
+      height="180em"
+      src="https://streak-stats.demolab.com?user=Aluisio-Pires&theme=transparent&ring=41B883&fire=41B883&currStreakNum=41B883&sideNums=41B883&dates=474A8A&border=444444"
+    />
   </a>
 </div>
 
